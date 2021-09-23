@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
+import PropFunc from './components/PropFunc';
 
 class PropClass extends Component {
     constructor(props) {
